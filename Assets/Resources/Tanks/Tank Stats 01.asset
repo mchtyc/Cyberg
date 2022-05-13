@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c50401e8557119488e1d0faecd16b1d, type: 3}
+  m_Name: Tank Stats 01
+  m_EditorClassIdentifier: 
+  HP:
+    value: 100
+  damage:
+    value: 20
+  defense:
+    value: 10
+  speed:
+    value: 10
+  heal:
+    value: 20
+  criticalChance:
+    value: 0.1
+  criticalDamage:
+    value: 60
+  level:
+    value: 1
+  range:
+    value: 15
+  bulletSpeed:
+    value: 20
+  fireRate:
+    value: 1

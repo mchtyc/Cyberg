@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83a09a949e8b3fc469752d72c26ac386, type: 3}
+  m_Name: Game Box 2
+  m_EditorClassIdentifier: 
+  boxSlot: 5
+  type: 2
+  state: 0
+  coins: 0
+  gems: 0
+  minCoins: 20
+  maxCoins: 25
+  minGems: 3
+  maxGems: 5
+  maxCount: 0
+  maxTimeInSeconds: 3600
